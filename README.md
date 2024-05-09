@@ -35,9 +35,3 @@ The dataset contains the following columns:
 - Pandas, NumPy
 - Matplotlib, Seaborn
 - Jupyter Notebook
-
-## Getting Started
-
-To replicate the analysis or contribute to the project:
-
-1. Clone the repository:
